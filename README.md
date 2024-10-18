@@ -1,5 +1,7 @@
 # CSMA3050
 
+![libre](libre.jpeg)
+
 LibreOffice
 LibreOffice is a free and open-source office suite that offers a comprehensive set of tools for word processing, spreadsheets, presentations, and more. It is an alternative to commercial office software and supports a variety of file formats, including those used by Microsoft Office (.docx, .xlsx, .pptx) as well as its own Open Document Format (ODF).
 
