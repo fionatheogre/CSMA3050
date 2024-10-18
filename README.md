@@ -2,25 +2,38 @@
 
 ![libre](libre.jpeg)
 
-LibreOffice
-LibreOffice is a free and open-source office suite that offers a comprehensive set of tools for word processing, spreadsheets, presentations, and more. It is an alternative to commercial office software and supports a variety of file formats, including those used by Microsoft Office (.docx, .xlsx, .pptx) as well as its own Open Document Format (ODF).
+# LibreOffice
 
-LibreOffice includes:
+**LibreOffice** is a free and open-source office suite that offers a comprehensive set of tools for word processing, spreadsheets, presentations, and more. It is an alternative to commercial office software and supports a variety of file formats, including those used by Microsoft Office (.docx, .xlsx, .pptx), as well as its own Open Document Format (ODF).
 
-Writer – A powerful word processor.
-Calc – A feature-rich spreadsheet program.
-Impress – A presentation software.
-Draw – A tool for creating vector graphics.
-Base – A database management system.
-Math – A formula editor for creating mathematical equations.
-Installation
-Windows:
-Download the installer from the official LibreOffice website.
-Run the installer and follow the on-screen instructions.
-macOS:
-Download the macOS version of LibreOffice from the official site.
-Open the downloaded file and move the LibreOffice application to your Applications folder.
-Linux:
+---
+
+## LibreOffice Applications
+
+- **[Writer](https://www.libreoffice.org/discover/writer/)** – A powerful word processor.
+- **[Calc](https://www.libreoffice.org/discover/calc/)** – A feature-rich spreadsheet program.
+- **[Impress](https://www.libreoffice.org/discover/impress/)** – A presentation software.
+- **[Draw](https://www.libreoffice.org/discover/draw/)** – A tool for creating vector graphics.
+- **[Base](https://www.libreoffice.org/discover/base/)** – A database management system.
+- **[Math](https://www.libreoffice.org/discover/math/)** – A formula editor for creating mathematical equations.
+
+---
+
+## Installation
+
+### Windows:
+1. Download the installer from the [official LibreOffice website](https://www.libreoffice.org/download/download/).
+2. Run the installer and follow the on-screen instructions.
+
+### macOS:
+1. Download the macOS version of LibreOffice from the [official site](https://www.libreoffice.org/download/download/).
+2. Open the downloaded file and move the LibreOffice application to your Applications folder.
+
+### Linux:
+1. Install LibreOffice through your package manager by running the following command in the terminal:
+   ```bash
+   sudo apt install libreoffice
+
 Install LibreOffice through your package manager, for example, by running the following command in the terminal:
 bash
 Copy code
